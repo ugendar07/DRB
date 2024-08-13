@@ -1,0 +1,16 @@
+[package]
+name = "RandomnessBeacon"
+version = "1.0.0"
+authors = []
+
+[addresses]
+address = "9622d2a3dd58762173f24fb1362fcd3763cfab1109dd9544b4090d29ddaf3b6d"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
