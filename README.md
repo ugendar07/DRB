@@ -7,7 +7,7 @@ The Distributed Randomness Beacon is a smart contract-based solution for generat
 
 ## Features
 
-- **Randomness Beacon Smart Contract:** The core functionality of the project is implemented in an Ethereum smart contract. Users can input their data, and the smart contract will generate a random number based on this data.
+- **DRB Smart Contract:** The core functionality of the project is to implemente a smart contract. Users can input their data, and the smart contract will generate a random number based on this data.
 
 - **Verifiable Randomness:** The generated random number is verifiable by users, ensuring transparency and fairness.
 
@@ -22,7 +22,7 @@ The Distributed Randomness Beacon is a smart contract-based solution for generat
 ### Installation
 1. Clone the repository:
 
-   git clone [Randomness-Beacon](https://github.com/ugendar07/DRB.git)
+   git clone [DRB](https://github.com/ugendar07/DRB.git)
 
 2. Navigate to the project directory:
      
@@ -46,8 +46,12 @@ The Distributed Randomness Beacon is a smart contract-based solution for generat
      ```
 
 
+
+
 ## Acknowledgments
   Special thanks to Aptos Cli for providing an excellent smart contract development framework.
+
+  
 ## Contact
 For questions or support, please contact [ugendar](mailto:ugendar07@gmail.com) .
 
