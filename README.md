@@ -2,10 +2,12 @@
 
 ## Overview
 
+
 The Distributed Randomness Beacon is a smart contract-based solution for generating random numbers on the blockchain. Users can provide inputs to the smart contract, and the beacon will use these inputs to produce a verifiable and unbiased random number.
 
 
 ## Features
+
 
 - **DRB Smart Contract:** The core functionality of the project is to implemente a smart contract. Users can input their data, and the smart contract will generate a random number based on this data.
 
@@ -14,7 +16,10 @@ The Distributed Randomness Beacon is a smart contract-based solution for generat
 
 ## Getting Started
 
+
+
 ### Prerequisites
+
 
 - [Python](https://www.python.org/) and [npm](https://www.npmjs.com/)
 - [AptosCli](https://aptos.dev/en/build/cli) - Smart contract development framework
@@ -39,12 +44,13 @@ The Distributed Randomness Beacon is a smart contract-based solution for generat
      aptos move test
      ```
 
+     
+
 5. Deploy the Smart Contract
 
      ```
      aptos move publish
      ```
-
 
 
 
