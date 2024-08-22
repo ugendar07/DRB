@@ -2,9 +2,7 @@
 
 ## Overview
 
-
 The Distributed Randomness Beacon is a smart contract-based solution for generating random numbers on the blockchain. Users can provide inputs to the smart contract, and the beacon will use these inputs to produce a verifiable and unbiased random number.
-
 
 ## Features
 
